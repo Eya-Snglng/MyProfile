@@ -1,0 +1,40 @@
+body {
+    background-color: #F1EFEF;
+    font-family: "Urbanist", serif;
+    text-align: center;
+  }
+h1 {
+    color: #191717;
+    font-size: 50px;
+    margin-bottom: 0%;
+  }
+h2 {
+    color: #7D7463;
+    margin-top: 70px;
+}
+h3 {
+    color: #45474B;
+}
+p {
+    color: #7D7C7C;
+    font-weight: 500;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+ul{
+    list-style: none;
+}
+
+ul li{
+    margin: 20px;
+    font-size: 18px;
+    display: inline-block
+}
+
+#myprofile {
+    border-radius: 50%;
+}
+
